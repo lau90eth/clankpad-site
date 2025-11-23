@@ -6,7 +6,7 @@ export default function Home() {
       <img
         src="/logo.png"
         alt="ClankPad"
-        className="w-80 h-80 mb-8 animate-pulse"
+        className="w-80 h-80 mb-8 animate-pulse rounded-full"
       />
       <h1 className="text-8xl font-black bg-gradient-to-r from-purple-400 to-purple-600 bg-clip-text text-transparent">
         ClankPad

@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[18958,["./_next/static/chunks/e97f92f9bb27e122.js"],"Countdown"]
+3:I[45445,["./_next/static/chunks/646efe583823e373.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+:HL["/logo.png","image"]
+0:{"buildId":"waJK8JYlwHXDPHl1gz8OH","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-black flex flex-col items-center justify-center text-white","children":[["$","img",null,{"src":"/logo.png","alt":"ClankPad","className":"w-80 h-80 mb-8 animate-pulse"}],["$","h1",null,{"className":"text-8xl font-black bg-gradient-to-r from-purple-400 to-purple-600 bg-clip-text text-transparent","children":"ClankPad"}],["$","p",null,{"className":"text-3xl mt-4 text-purple-300","children":"AI-Powered Meme Launcher"}],["$","p",null,{"className":"text-3xl mt-12 text-gray-400","children":"Live in"}],["$","$L2",null,{}],["$","p",null,{"className":"mt-12 text-xl text-gray-400","children":"First 50 creators = 100 $MON each · 100% LP locked forever"}],["$","div",null,{"className":"mt-10 flex gap-10 text-purple-400 text-lg","children":[["$","a",null,{"href":"https://x.com/ClankPad","children":"@ClankPad"}],["$","a",null,{"href":"https://clankpad.xyz","children":"clankpad.xyz"}]]}]]}],[["$","script","script-0",{"src":"./_next/static/chunks/e97f92f9bb27e122.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
