@@ -9,7 +9,9 @@ export default function Home() {
       <p className="text-2xl md:text-4xl mt-6 text-purple-300 text-center">
         AI-Powered Meme Launcher
       </p>
-      <p className="text-2xl md:text-3xl mt-16 text-gray-400 text-center">Live in</p>
+      <p className="text-2xl md:text-3xl mt-16 text-gray-400 text-center">
+        Live in
+      </p>
       <Countdown />
       <p className="mt-16 text-lg md:text-xl text-gray-400 text-center max-w-2xl">
         Fastest launches on Monad · 100% LP locked · Clanker sniper built-in
