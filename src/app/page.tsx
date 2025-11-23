@@ -1,21 +1,18 @@
-import Image from "next/image";
 import { Countdown } from "@/components/Countdown";
 
 export default function Home() {
   return (
     <div className="min-h-screen bg-black flex flex-col items-center justify-center text-white">
-      <Image
-        src="/clankpad-logo.png"
+      <img
+        src="/logo.svg"
         alt="ClankPad"
         width={320}
         height={320}
         className="mb-8 animate-pulse"
-        priority
       />
       <h1 className="text-8xl font-black bg-gradient-to-r from-purple-400 to-purple-600 bg-clip-text text-transparent">
         ClankPad
       </h1>
-      {/* resto del codice uguale */}
       <p className="text-3xl mt-4 text-purple-300">AI-Powered Meme Launcher</p>
       <p className="text-3xl mt-12 text-gray-400">Live in</p>
       <Countdown />
