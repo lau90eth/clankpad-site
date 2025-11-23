@@ -11,7 +11,9 @@ export default function Home() {
         height={280}
         className="mb-8 animate-pulse rounded-full"
         priority
-        onError={(e) => { e.currentTarget.style.display = 'none'; }}  // Nasconde se fallisce
+        onError={(e) => {
+          e.currentTarget.style.display = 'none';  // Nasconde placeholder se fallisce
+        }}
       />
       <h1 className="text-6xl md:text-8xl font-black bg-gradient-to-r from-purple-400 to-purple-600 bg-clip-text text-transparent text-center">
         ClankPad
