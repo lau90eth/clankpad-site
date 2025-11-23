@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-black flex flex-col items-center justify-center text-white px-4 max-w-4xl mx-auto">
       <Image
-        src="/images/logo.png"
+        src="/logo.png"  // Path semplice da public
         alt="ClankPad Logo"
         width={280}
         height={280}
