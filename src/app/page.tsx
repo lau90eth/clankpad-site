@@ -4,11 +4,9 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-black flex flex-col items-center justify-center text-white">
       <img
-        src="/logo.svg"
+        src="/logo.png"
         alt="ClankPad"
-        width={320}
-        height={320}
-        className="mb-8 animate-pulse"
+        className="w-80 h-80 mb-8 animate-pulse"
       />
       <h1 className="text-8xl font-black bg-gradient-to-r from-purple-400 to-purple-600 bg-clip-text text-transparent">
         ClankPad
